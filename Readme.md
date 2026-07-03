@@ -15,10 +15,12 @@ Mi objetivo es seguir creciendo como desarrollador, participar en proyectos que 
 Siempre estoy abierto a aprender, colaborar y afrontar nuevos retos.
 
 
-## Estadisticas Github
+### Estadisticas Github
+
 <img width="776" height="388" alt="github-lenguajes" src="https://github.com/user-attachments/assets/19580b6a-d6c4-4696-9159-e86fb5a2a0f1" />
 
 
-## Lenguajes trabajados
+### Lenguajes trabajados
+
 <img width="1620" height="272" alt="github-iconos-lenguajes" src="https://github.com/user-attachments/assets/0808348c-d150-47e8-9290-086f172ef00b" />
 
